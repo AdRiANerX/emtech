@@ -1,0 +1,2558 @@
+
+Detalles de las rutas
+
+
+Dirección:  Exports
+Origen:  Japan
+Destino:  China
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  Honda
+Número de registros:  196
+Valor total: 2,550,000,000.00
+Porcentaje sobre el valor global: 1.182%
+
+
+
+Dirección:  Exports
+Origen:  Japan
+Destino:  USA
+Producto:  Machinery and electronics
+Modo de Transporte:  Air
+Compañia:  ReachExt J.J
+Número de registros:  123
+Valor total: 1,965,040,000.00
+Porcentaje sobre el valor global: 0.911%
+
+
+
+Dirección:  Exports
+Origen:  Japan
+Destino:  South Korea
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  Toyota
+Número de registros:  62
+Valor total: 1,226,000,000.00
+Porcentaje sobre el valor global: 0.568%
+
+
+
+Dirección:  Exports
+Origen:  Japan
+Destino:  Spain
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  Toyota
+Número de registros:  15
+Valor total: 368,000,000.00
+Porcentaje sobre el valor global: 0.171%
+
+
+
+Dirección:  Exports
+Origen:  Germany
+Destino:  USA
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  BMW
+Número de registros:  236
+Valor total: 795,446,000.00
+Porcentaje sobre el valor global: 0.369%
+
+
+
+Dirección:  Exports
+Origen:  Germany
+Destino:  China
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  BMW
+Número de registros:  95
+Valor total: 2,167,875,000.00
+Porcentaje sobre el valor global: 1.005%
+
+
+
+Dirección:  Exports
+Origen:  Germany
+Destino:  Italy
+Producto:  Cars
+Modo de Transporte:  Rail
+Compañia:  BMW
+Número de registros:  130
+Valor total: 4,541,000,000.00
+Porcentaje sobre el valor global: 2.105%
+
+
+
+Dirección:  Exports
+Origen:  China
+Destino:  Japan
+Producto:  Computers
+Modo de Transporte:  Air
+Compañia:  Lenovo Group Ltd
+Número de registros:  133
+Valor total: 2,654,000,000.00
+Porcentaje sobre el valor global: 1.230%
+
+
+
+Dirección:  Exports
+Origen:  China
+Destino:  USA
+Producto:  Computers
+Modo de Transporte:  Air
+Compañia:  Lenovo Group Ltd
+Número de registros:  111
+Valor total: 3,797,000,000.00
+Porcentaje sobre el valor global: 1.760%
+
+
+
+Dirección:  Exports
+Origen:  China
+Destino:  Germany
+Producto:  Computers
+Modo de Transporte:  Air
+Compañia:  Lenovo Group Ltd
+Número de registros:  142
+Valor total: 4,090,000,000.00
+Porcentaje sobre el valor global: 1.896%
+
+
+
+Dirección:  Exports
+Origen:  China
+Destino:  South Korea
+Producto:  Computers
+Modo de Transporte:  Rail
+Compañia:  Lenovo Group Ltd
+Número de registros:  189
+Valor total: 4,790,000,000.00
+Porcentaje sobre el valor global: 2.221%
+
+
+
+Dirección:  Exports
+Origen:  China
+Destino:  Mexico
+Producto:  Smartphones
+Modo de Transporte:  Air
+Compañia:  Huawei Technologies Co
+Número de registros:  330
+Valor total: 12,250,000,000.00
+Porcentaje sobre el valor global: 5.679%
+
+
+
+Dirección:  Exports
+Origen:  China
+Destino:  Brazil
+Producto:  Optical readers
+Modo de Transporte:  Air
+Compañia:  Shenzhen DJS Co Ltd
+Número de registros:  60
+Valor total: 785,000,000.00
+Porcentaje sobre el valor global: 0.364%
+
+
+
+Dirección:  Exports
+Origen:  Italy
+Destino:  France
+Producto:  Vehicle parts
+Modo de Transporte:  Road
+Compañia:  Auto Parts It S.R.L 
+Número de registros:  48
+Valor total: 469,060,000.00
+Porcentaje sobre el valor global: 0.217%
+
+
+
+Dirección:  Exports
+Origen:  Italy
+Destino:  Switzerland
+Producto:  Clothing
+Modo de Transporte:  Rail
+Compañia:  Calzedonia SA
+Número de registros:  74
+Valor total: 643,094,000.00
+Porcentaje sobre el valor global: 0.298%
+
+
+
+Dirección:  Exports
+Origen:  Italy
+Destino:  United Kingdom
+Producto:  Vehicle parts
+Modo de Transporte:  Sea
+Compañia:  Auto Parts It S.R.L 
+Número de registros:  50
+Valor total: 706,038,000.00
+Porcentaje sobre el valor global: 0.327%
+
+
+
+Dirección:  Exports
+Origen:  Italy
+Destino:  Spain
+Producto:  Vehicle parts
+Modo de Transporte:  Rail
+Compañia:  Auto Parts It S.R.L 
+Número de registros:  75
+Valor total: 871,108,000.00
+Porcentaje sobre el valor global: 0.404%
+
+
+
+Dirección:  Exports
+Origen:  Italy
+Destino:  Croatia
+Producto:  Vehicle parts
+Modo de Transporte:  Rail
+Compañia:  Auto Parts It S.R.L 
+Número de registros:  30
+Valor total: 699,000,000.00
+Porcentaje sobre el valor global: 0.324%
+
+
+
+Dirección:  Exports
+Origen:  Italy
+Destino:  Ireland
+Producto:  Vehicle parts
+Modo de Transporte:  Rail
+Compañia:  Auto Parts It S.R.L 
+Número de registros:  25
+Valor total: 563,000,000.00
+Porcentaje sobre el valor global: 0.261%
+
+
+
+Dirección:  Exports
+Origen:  Italy
+Destino:  Germany
+Producto:  Vehicle parts
+Modo de Transporte:  Rail
+Compañia:  Auto Parts It S.R.L 
+Número de registros:  109
+Valor total: 1,415,088,000.00
+Porcentaje sobre el valor global: 0.656%
+
+
+
+Dirección:  Exports
+Origen:  USA
+Destino:  China
+Producto:  Industrial machines
+Modo de Transporte:  Sea
+Compañia:  Caterpillar Inc
+Número de registros:  30
+Valor total: 688,000,000.00
+Porcentaje sobre el valor global: 0.319%
+
+
+
+Dirección:  Exports
+Origen:  USA
+Destino:  Belgium
+Producto:  Industrial machines
+Modo de Transporte:  Sea
+Compañia:  Caterpillar Inc
+Número de registros:  211
+Valor total: 2,371,000,000.00
+Porcentaje sobre el valor global: 1.099%
+
+
+
+Dirección:  Exports
+Origen:  USA
+Destino:  Mexico
+Producto:  Aerospace Parts
+Modo de Transporte:  Rail
+Compañia:  Boeing Company
+Número de registros:  194
+Valor total: 4,710,000,000.00
+Porcentaje sobre el valor global: 2.184%
+
+
+
+Dirección:  Exports
+Origen:  USA
+Destino:  Brazil
+Producto:  Industrial machines
+Modo de Transporte:  Sea
+Compañia:  Caterpillar Inc
+Número de registros:  101
+Valor total: 2,384,000,000.00
+Porcentaje sobre el valor global: 1.105%
+
+
+
+Dirección:  Exports
+Origen:  USA
+Destino:  Argentina
+Producto:  Industrial machines
+Modo de Transporte:  Sea
+Compañia:  Caterpillar Inc
+Número de registros:  139
+Valor total: 3,159,000,000.00
+Porcentaje sobre el valor global: 1.465%
+
+
+
+Dirección:  Exports
+Origen:  USA
+Destino:  Singapore
+Producto:  Aerospace Parts
+Modo de Transporte:  Sea
+Compañia:  Boeing Company
+Número de registros:  75
+Valor total: 1,599,000,000.00
+Porcentaje sobre el valor global: 0.741%
+
+
+
+Dirección:  Exports
+Origen:  USA
+Destino:  Canada
+Producto:  Industrial machines
+Modo de Transporte:  Road
+Compañia:  Caterpillar Inc
+Número de registros:  136
+Valor total: 2,412,000,000.00
+Porcentaje sobre el valor global: 1.118%
+
+
+
+Dirección:  Exports
+Origen:  Russia
+Destino:  Netherlands
+Producto:  Crude Petroleum
+Modo de Transporte:  Sea
+Compañia:  PAO Gazprom
+Número de registros:  110
+Valor total: 1,959,000,000.00
+Porcentaje sobre el valor global: 0.908%
+
+
+
+Dirección:  Exports
+Origen:  Russia
+Destino:  Germany
+Producto:  Crude Petroleum
+Modo de Transporte:  Sea
+Compañia:  PAO Gazprom
+Número de registros:  120
+Valor total: 2,042,000,000.00
+Porcentaje sobre el valor global: 0.947%
+
+
+
+Dirección:  Exports
+Origen:  Russia
+Destino:  Belorussia
+Producto:  Cereals
+Modo de Transporte:  Road
+Compañia:  Diet Prom LLC
+Número de registros:  219
+Valor total: 3,529,000,000.00
+Porcentaje sobre el valor global: 1.636%
+
+
+
+Dirección:  Exports
+Origen:  Russia
+Destino:  China
+Producto:  Cereals
+Modo de Transporte:  Road
+Compañia:  Diet Prom LLC
+Número de registros:  130
+Valor total: 2,310,000,000.00
+Porcentaje sobre el valor global: 1.071%
+
+
+
+Dirección:  Exports
+Origen:  Russia
+Destino:  Turkey
+Producto:  Cereals
+Modo de Transporte:  Road
+Compañia:  Diet Prom LLC
+Número de registros:  80
+Valor total: 1,446,000,000.00
+Porcentaje sobre el valor global: 0.670%
+
+
+
+Dirección:  Exports
+Origen:  Russia
+Destino:  India
+Producto:  Crude Petroleum
+Modo de Transporte:  Sea
+Compañia:  PAO Gazprom
+Número de registros:  23
+Valor total: 498,000,000.00
+Porcentaje sobre el valor global: 0.231%
+
+
+
+Dirección:  Exports
+Origen:  Russia
+Destino:  France
+Producto:  Crude Petroleum
+Modo de Transporte:  Sea
+Compañia:  PAO Gazprom
+Número de registros:  36
+Valor total: 542,000,000.00
+Porcentaje sobre el valor global: 0.251%
+
+
+
+Dirección:  Exports
+Origen:  Russia
+Destino:  South Korea
+Producto:  Crude Petroleum
+Modo de Transporte:  Sea
+Compañia:  PAO Gazprom
+Número de registros:  20
+Valor total: 403,000,000.00
+Porcentaje sobre el valor global: 0.187%
+
+
+
+Dirección:  Exports
+Origen:  Russia
+Destino:  Japan
+Producto:  Crude Petroleum
+Modo de Transporte:  Sea
+Compañia:  PAO Gazprom
+Número de registros:  28
+Valor total: 494,000,000.00
+Porcentaje sobre el valor global: 0.229%
+
+
+
+Dirección:  Exports
+Origen:  China
+Destino:  Argentina
+Producto:  Optical readers
+Modo de Transporte:  Air
+Compañia:  Shenzhen DJS Co Ltd
+Número de registros:  143
+Valor total: 1,236,000,000.00
+Porcentaje sobre el valor global: 0.573%
+
+
+
+Dirección:  Exports
+Origen:  China
+Destino:  Spain
+Producto:  Smartphones
+Modo de Transporte:  Air
+Compañia:  Xiaomi Corp
+Número de registros:  250
+Valor total: 1,862,000,000.00
+Porcentaje sobre el valor global: 0.863%
+
+
+
+Dirección:  Exports
+Origen:  Japan
+Destino:  Switzerland
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  Honda
+Número de registros:  21
+Valor total: 197,000,000.00
+Porcentaje sobre el valor global: 0.091%
+
+
+
+Dirección:  Exports
+Origen:  Japan
+Destino:  Mexico
+Producto:  Machinery and electronics
+Modo de Transporte:  Air
+Compañia:  Panasonic Co
+Número de registros:  179
+Valor total: 1,911,000,000.00
+Porcentaje sobre el valor global: 0.886%
+
+
+
+Dirección:  Exports
+Origen:  Japan
+Destino:  Singapore
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  Panasonic Co
+Número de registros:  30
+Valor total: 340,000,000.00
+Porcentaje sobre el valor global: 0.158%
+
+
+
+Dirección:  Exports
+Origen:  Japan
+Destino:  Brazil
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  Honda
+Número de registros:  306
+Valor total: 3,368,155,000.00
+Porcentaje sobre el valor global: 1.562%
+
+
+
+Dirección:  Exports
+Origen:  Japan
+Destino:  Germany
+Producto:  Machinery and electronics
+Modo de Transporte:  Air
+Compañia:  Panasonic Co
+Número de registros:  54
+Valor total: 23,111,000.00
+Porcentaje sobre el valor global: 0.011%
+
+
+
+Dirección:  Exports
+Origen:  South Korea
+Destino:  China
+Producto:  Integrated circuits
+Modo de Transporte:  Sea
+Compañia:  LG Electronics Inc
+Número de registros:  94
+Valor total: 1,704,000,000.00
+Porcentaje sobre el valor global: 0.790%
+
+
+
+Dirección:  Exports
+Origen:  South Korea
+Destino:  USA
+Producto:  Tires
+Modo de Transporte:  Sea
+Compañia:  Kumho Tyre Co
+Número de registros:  77
+Valor total: 1,228,000,000.00
+Porcentaje sobre el valor global: 0.569%
+
+
+
+Dirección:  Exports
+Origen:  South Korea
+Destino:  Japan
+Producto:  Integrated circuits
+Modo de Transporte:  Sea
+Compañia:  Amkor Technology Inc
+Número de registros:  279
+Valor total: 4,594,000,000.00
+Porcentaje sobre el valor global: 2.130%
+
+
+
+Dirección:  Exports
+Origen:  South Korea
+Destino:  Vietnam
+Producto:  Integrated circuits
+Modo de Transporte:  Sea
+Compañia:  LG Electronics Inc
+Número de registros:  497
+Valor total: 6,877,007,000.00
+Porcentaje sobre el valor global: 3.188%
+
+
+
+Dirección:  Exports
+Origen:  South Korea
+Destino:  Mexico
+Producto:  Integrated circuits
+Modo de Transporte:  Sea
+Compañia:  LG Electronics Inc
+Número de registros:  96
+Valor total: 218,035,000.00
+Porcentaje sobre el valor global: 0.101%
+
+
+
+Dirección:  Exports
+Origen:  USA
+Destino:  Netherlands
+Producto:  Aerospace Parts
+Modo de Transporte:  Sea
+Compañia:  Boeing Company
+Número de registros:  436
+Valor total: 1,032,187,000.00
+Porcentaje sobre el valor global: 0.479%
+
+
+
+Dirección:  Exports
+Origen:  Netherlands
+Destino:  Germany
+Producto:  Meat
+Modo de Transporte:  Rail
+Compañia:  Meat Beleggingen Bv
+Número de registros:  44
+Valor total: 143,029,000.00
+Porcentaje sobre el valor global: 0.066%
+
+
+
+Dirección:  Exports
+Origen:  Netherlands
+Destino:  France
+Producto:  Meat
+Modo de Transporte:  Road
+Compañia:  Meat Beleggingen Bv
+Número de registros:  239
+Valor total: 739,075,000.00
+Porcentaje sobre el valor global: 0.343%
+
+
+
+Dirección:  Exports
+Origen:  Netherlands
+Destino:  Belgium
+Producto:  Meat
+Modo de Transporte:  Sea
+Compañia:  Meat Beleggingen Bv
+Número de registros:  437
+Valor total: 3,238,142,000.00
+Porcentaje sobre el valor global: 1.501%
+
+
+
+Dirección:  Exports
+Origen:  France
+Destino:  Germany
+Producto:  Pharmaceuticals
+Modo de Transporte:  Road
+Compañia:  Cubist Pharma F
+Número de registros:  109
+Valor total: 1,940,035,000.00
+Porcentaje sobre el valor global: 0.899%
+
+
+
+Dirección:  Exports
+Origen:  France
+Destino:  USA
+Producto:  Pharmaceuticals
+Modo de Transporte:  Sea
+Compañia:  Cubist Pharma F
+Número de registros:  103
+Valor total: 3,402,000,000.00
+Porcentaje sobre el valor global: 1.577%
+
+
+
+Dirección:  Exports
+Origen:  France
+Destino:  Italy
+Producto:  Cosmetics
+Modo de Transporte:  Road
+Compañia:  L Oreal Co
+Número de registros:  23
+Valor total: 852,000,000.00
+Porcentaje sobre el valor global: 0.395%
+
+
+
+Dirección:  Exports
+Origen:  France
+Destino:  Spain
+Producto:  Cosmetics
+Modo de Transporte:  Road
+Compañia:  Klorane Corp
+Número de registros:  116
+Valor total: 1,455,058,000.00
+Porcentaje sobre el valor global: 0.675%
+
+
+
+Dirección:  Exports
+Origen:  France
+Destino:  United Kingdom
+Producto:  Pharmaceuticals
+Modo de Transporte:  Sea
+Compañia:  Cubist Pharma F
+Número de registros:  147
+Valor total: 5,427,000,000.00
+Porcentaje sobre el valor global: 2.516%
+
+
+
+Dirección:  Exports
+Origen:  Germany
+Destino:  France
+Producto:  Cars
+Modo de Transporte:  Road
+Compañia:  Volkswagen
+Número de registros:  299
+Valor total: 2,902,214,000.00
+Porcentaje sobre el valor global: 1.346%
+
+
+
+Dirección:  Exports
+Origen:  France
+Destino:  Belgium
+Producto:  Cosmetics
+Modo de Transporte:  Road
+Compañia:  L Oreal Co
+Número de registros:  223
+Valor total: 5,538,069,000.00
+Porcentaje sobre el valor global: 2.568%
+
+
+
+Dirección:  Exports
+Origen:  Canada
+Destino:  Mexico
+Producto:  Wood
+Modo de Transporte:  Rail
+Compañia:  Black Forest Wood Co
+Número de registros:  261
+Valor total: 8,450,000,000.00
+Porcentaje sobre el valor global: 3.918%
+
+
+
+Dirección:  Exports
+Origen:  Canada
+Destino:  Japan
+Producto:  Gold
+Modo de Transporte:  Sea
+Compañia:  Kinross Goldâ€Ž Co
+Número de registros:  83
+Valor total: 532,000,000.00
+Porcentaje sobre el valor global: 0.247%
+
+
+
+Dirección:  Exports
+Origen:  Canada
+Destino:  USA
+Producto:  Wood
+Modo de Transporte:  Rail
+Compañia:  Black Forest Wood Co
+Número de registros:  114
+Valor total: 640,000,000.00
+Porcentaje sobre el valor global: 0.297%
+
+
+
+Dirección:  Exports
+Origen:  Canada
+Destino:  China
+Producto:  Gold
+Modo de Transporte:  Sea
+Compañia:  Kinross Goldâ€Ž Co
+Número de registros:  103
+Valor total: 693,000,000.00
+Porcentaje sobre el valor global: 0.321%
+
+
+
+Dirección:  Exports
+Origen:  Canada
+Destino:  United Kingdom
+Producto:  Gold
+Modo de Transporte:  Sea
+Compañia:  Kinross Goldâ€Ž Co
+Número de registros:  23
+Valor total: 163,000,000.00
+Porcentaje sobre el valor global: 0.076%
+
+
+
+Dirección:  Exports
+Origen:  Canada
+Destino:  Brazil
+Producto:  Gold
+Modo de Transporte:  Sea
+Compañia:  Kinross Goldâ€Ž Co
+Número de registros:  19
+Valor total: 206,000,000.00
+Porcentaje sobre el valor global: 0.096%
+
+
+
+Dirección:  Exports
+Origen:  Belgium
+Destino:  United Kingdom
+Producto:  Dairy
+Modo de Transporte:  Road
+Compañia:  Incopack Nv
+Número de registros:  146
+Valor total: 1,632,000,000.00
+Porcentaje sobre el valor global: 0.757%
+
+
+
+Dirección:  Exports
+Origen:  Belgium
+Destino:  Netherlands
+Producto:  Dairy
+Modo de Transporte:  Road
+Compañia:  Incopack Nv
+Número de registros:  36
+Valor total: 311,000,000.00
+Porcentaje sobre el valor global: 0.144%
+
+
+
+Dirección:  Exports
+Origen:  Belgium
+Destino:  France
+Producto:  Dairy
+Modo de Transporte:  Road
+Compañia:  Incopack Nv
+Número de registros:  32
+Valor total: 343,000,000.00
+Porcentaje sobre el valor global: 0.159%
+
+
+
+Dirección:  Exports
+Origen:  Belgium
+Destino:  Germany
+Producto:  Dairy
+Modo de Transporte:  Road
+Compañia:  Incopack Nv
+Número de registros:  29
+Valor total: 302,000,000.00
+Porcentaje sobre el valor global: 0.140%
+
+
+
+Dirección:  Exports
+Origen:  Spain
+Destino:  Germany
+Producto:  Cars
+Modo de Transporte:  Rail
+Compañia:  DSD Design&Motor
+Número de registros:  52
+Valor total: 583,000,000.00
+Porcentaje sobre el valor global: 0.270%
+
+
+
+Dirección:  Exports
+Origen:  Spain
+Destino:  Russia
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  DSD Design&Motor
+Número de registros:  99
+Valor total: 1,085,000,000.00
+Porcentaje sobre el valor global: 0.503%
+
+
+
+Dirección:  Exports
+Origen:  Spain
+Destino:  France
+Producto:  Cars
+Modo de Transporte:  Rail
+Compañia:  DSD Design&Motor
+Número de registros:  40
+Valor total: 345,000,000.00
+Porcentaje sobre el valor global: 0.160%
+
+
+
+Dirección:  Exports
+Origen:  Spain
+Destino:  Belgium
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  DSD Design&Motor
+Número de registros:  53
+Valor total: 613,000,000.00
+Porcentaje sobre el valor global: 0.284%
+
+
+
+Dirección:  Exports
+Origen:  Spain
+Destino:  Brazil
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  DSD Design&Motor
+Número de registros:  25
+Valor total: 442,000,000.00
+Porcentaje sobre el valor global: 0.205%
+
+
+
+Dirección:  Exports
+Origen:  Spain
+Destino:  Italy
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  DSD Design&Motor
+Número de registros:  26
+Valor total: 350,000,000.00
+Porcentaje sobre el valor global: 0.162%
+
+
+
+Dirección:  Exports
+Origen:  India
+Destino:  Russia
+Producto:  Diamonds
+Modo de Transporte:  Sea
+Compañia:  MaJwan Ltd
+Número de registros:  26
+Valor total: 106,000,000.00
+Porcentaje sobre el valor global: 0.049%
+
+
+
+Dirección:  Exports
+Origen:  India
+Destino:  USA
+Producto:  Diamonds
+Modo de Transporte:  Sea
+Compañia:  MaJwan Ltd
+Número de registros:  95
+Valor total: 474,000,000.00
+Porcentaje sobre el valor global: 0.220%
+
+
+
+Dirección:  Exports
+Origen:  India
+Destino:  United Arab Emirates
+Producto:  Rice
+Modo de Transporte:  Sea
+Compañia:  Green India Ltd
+Número de registros:  214
+Valor total: 1,037,000,000.00
+Porcentaje sobre el valor global: 0.481%
+
+
+
+Dirección:  Exports
+Origen:  India
+Destino:  China
+Producto:  Refined Petroleum
+Modo de Transporte:  Rail
+Compañia:   Oil India Ar Ltd
+Número de registros:  183
+Valor total: 761,000,000.00
+Porcentaje sobre el valor global: 0.353%
+
+
+
+Dirección:  Exports
+Origen:  India
+Destino:  Germany
+Producto:  Gas turbines
+Modo de Transporte:  Sea
+Compañia:  Indian Turbines Ersx
+Número de registros:  28
+Valor total: 137,000,000.00
+Porcentaje sobre el valor global: 0.064%
+
+
+
+Dirección:  Exports
+Origen:  India
+Destino:  Japan
+Producto:  Refined Petroleum
+Modo de Transporte:  Sea
+Compañia:   Oil India Ar Ltd
+Número de registros:  19
+Valor total: 111,000,000.00
+Porcentaje sobre el valor global: 0.051%
+
+
+
+Dirección:  Exports
+Origen:  United Kingdom
+Destino:  Ireland
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  Rolls-Royce Holdings plc
+Número de registros:  137
+Valor total: 584,123,000.00
+Porcentaje sobre el valor global: 0.271%
+
+
+
+Dirección:  Exports
+Origen:  United Kingdom
+Destino:  Spain
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  British Motor Company Ltd
+Número de registros:  176
+Valor total: 1,378,025,000.00
+Porcentaje sobre el valor global: 0.639%
+
+
+
+Dirección:  Exports
+Origen:  United Kingdom
+Destino:  Belgium
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  Rolls-Royce Holdings plc
+Número de registros:  229
+Valor total: 815,169,000.00
+Porcentaje sobre el valor global: 0.378%
+
+
+
+Dirección:  Exports
+Origen:  Netherlands
+Destino:  Mexico
+Producto:  Meat
+Modo de Transporte:  Sea
+Compañia:  Meat Beleggingen Bv
+Número de registros:  24
+Valor total: 28,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  United Kingdom
+Destino:  France
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  British Motor Company Ltd
+Número de registros:  107
+Valor total: 107,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  United Kingdom
+Destino:  Italy
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  Rolls-Royce Holdings plc
+Número de registros:  100
+Valor total: 77,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  United Kingdom
+Destino:  USA
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  British Motor Company Ltd
+Número de registros:  122
+Valor total: 111,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  Germany
+Destino:  Canada
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  BMW
+Número de registros:  93
+Valor total: 25,178,000.00
+Porcentaje sobre el valor global: 0.012%
+
+
+
+Dirección:  Exports
+Origen:  Australia
+Destino:  Singapore
+Producto:  Coal Briquettes
+Modo de Transporte:  Sea
+Compañia:  Aztech Investments Ltd
+Número de registros:  273
+Valor total: 493,000,000.00
+Porcentaje sobre el valor global: 0.229%
+
+
+
+Dirección:  Exports
+Origen:  Australia
+Destino:  United Kingdom
+Producto:  Coal Briquettes
+Modo de Transporte:  Sea
+Compañia:  Aztech Investments Ltd
+Número de registros:  113
+Valor total: 220,000,000.00
+Porcentaje sobre el valor global: 0.102%
+
+
+
+Dirección:  Exports
+Origen:  Australia
+Destino:  Thailand
+Producto:  Coal Briquettes
+Modo de Transporte:  Sea
+Compañia:  Aztech Investments Ltd
+Número de registros:  200
+Valor total: 337,000,000.00
+Porcentaje sobre el valor global: 0.156%
+
+
+
+Dirección:  Exports
+Origen:  Australia
+Destino:  Brazil
+Producto:  Coal Briquettes
+Modo de Transporte:  Sea
+Compañia:  Aztech Investments Ltd
+Número de registros:  112
+Valor total: 172,000,000.00
+Porcentaje sobre el valor global: 0.080%
+
+
+
+Dirección:  Exports
+Origen:  Australia
+Destino:  Mexico
+Producto:  Coal Briquettes
+Modo de Transporte:  Sea
+Compañia:  Aztech Investments Ltd
+Número de registros:  51
+Valor total: 84,000,000.00
+Porcentaje sobre el valor global: 0.039%
+
+
+
+Dirección:  Exports
+Origen:  Australia
+Destino:  Philippines
+Producto:  Coal Briquettes
+Modo de Transporte:  Sea
+Compañia:  Aztech Investments Ltd
+Número de registros:  114
+Valor total: 344,000,000.00
+Porcentaje sobre el valor global: 0.159%
+
+
+
+Dirección:  Exports
+Origen:  Brazil
+Destino:  Argentina
+Producto:  Raw sugar
+Modo de Transporte:  Road
+Compañia:  Feores Sugar Ltda
+Número de registros:  82
+Valor total: 465,000,000.00
+Porcentaje sobre el valor global: 0.216%
+
+
+
+Dirección:  Exports
+Origen:  Brazil
+Destino:  China
+Producto:  Raw sugar
+Modo de Transporte:  Sea
+Compañia:  Feores Sugar Ltda
+Número de registros:  82
+Valor total: 386,000,000.00
+Porcentaje sobre el valor global: 0.179%
+
+
+
+Dirección:  Exports
+Origen:  Brazil
+Destino:  USA
+Producto:  Raw sugar
+Modo de Transporte:  Sea
+Compañia:  Feores Sugar Ltda
+Número de registros:  46
+Valor total: 272,000,000.00
+Porcentaje sobre el valor global: 0.126%
+
+
+
+Dirección:  Exports
+Origen:  Brazil
+Destino:  Netherlands
+Producto:  Raw sugar
+Modo de Transporte:  Sea
+Compañia:  Feores Sugar Ltda
+Número de registros:  78
+Valor total: 462,000,000.00
+Porcentaje sobre el valor global: 0.214%
+
+
+
+Dirección:  Exports
+Origen:  Brazil
+Destino:  Mexico
+Producto:  Raw sugar
+Modo de Transporte:  Sea
+Compañia:  Feores Sugar Ltda
+Número de registros:  108
+Valor total: 689,000,000.00
+Porcentaje sobre el valor global: 0.319%
+
+
+
+Dirección:  Exports
+Origen:  Switzerland
+Destino:  Russia
+Producto:  Gold
+Modo de Transporte:  Rail
+Compañia:  Global Gold AG
+Número de registros:  73
+Valor total: 650,000,000.00
+Porcentaje sobre el valor global: 0.301%
+
+
+
+Dirección:  Exports
+Origen:  Switzerland
+Destino:  France
+Producto:  Gold
+Modo de Transporte:  Road
+Compañia:  Global Gold AG
+Número de registros:  60
+Valor total: 510,000,000.00
+Porcentaje sobre el valor global: 0.236%
+
+
+
+Dirección:  Exports
+Origen:  Switzerland
+Destino:  Italy
+Producto:  Gold
+Modo de Transporte:  Road
+Compañia:  Global Gold AG
+Número de registros:  45
+Valor total: 366,000,000.00
+Porcentaje sobre el valor global: 0.170%
+
+
+
+Dirección:  Exports
+Origen:  Switzerland
+Destino:  Germany
+Producto:  Gold
+Modo de Transporte:  Road
+Compañia:  Global Gold AG
+Número de registros:  71
+Valor total: 628,000,000.00
+Porcentaje sobre el valor global: 0.291%
+
+
+
+Dirección:  Exports
+Origen:  Mexico
+Destino:  Canada
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  Honda
+Número de registros:  57
+Valor total: 276,949,000.00
+Porcentaje sobre el valor global: 0.128%
+
+
+
+Dirección:  Exports
+Origen:  Mexico
+Destino:  Brazil
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  Honda
+Número de registros:  81
+Valor total: 147,433,000.00
+Porcentaje sobre el valor global: 0.068%
+
+
+
+Dirección:  Exports
+Origen:  Mexico
+Destino:  Japan
+Producto:  Vegetables
+Modo de Transporte:  Sea
+Compañia:  Vegetales Mexico S.P.R.
+Número de registros:  70
+Valor total: 392,000,000.00
+Porcentaje sobre el valor global: 0.182%
+
+
+
+Dirección:  Exports
+Origen:  Mexico
+Destino:  USA
+Producto:  Cars
+Modo de Transporte:  Rail
+Compañia:  Honda
+Número de registros:  106
+Valor total: 585,342,000.00
+Porcentaje sobre el valor global: 0.271%
+
+
+
+Dirección:  Exports
+Origen:  Mexico
+Destino:  Peru
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  Honda
+Número de registros:  44
+Valor total: 1,673,000.00
+Porcentaje sobre el valor global: 0.001%
+
+
+
+Dirección:  Exports
+Origen:  Mexico
+Destino:  Austria
+Producto:  Vegetables
+Modo de Transporte:  Sea
+Compañia:  Vegetales Mexico S.P.R.
+Número de registros:  59
+Valor total: 1,894,000.00
+Porcentaje sobre el valor global: 0.001%
+
+
+
+Dirección:  Exports
+Origen:  Mexico
+Destino:  New Zealand
+Producto:  Vegetables
+Modo de Transporte:  Sea
+Compañia:  Vegetales Mexico S.P.R.
+Número de registros:  249
+Valor total: 9,382,000.00
+Porcentaje sobre el valor global: 0.004%
+
+
+
+Dirección:  Exports
+Origen:  Mexico
+Destino:  Singapore
+Producto:  Vegetables
+Modo de Transporte:  Sea
+Compañia:  Vegetales Mexico S.P.R.
+Número de registros:  106
+Valor total: 5,082,000.00
+Porcentaje sobre el valor global: 0.002%
+
+
+
+Dirección:  Exports
+Origen:  Germany
+Destino:  Mexico
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  BMW
+Número de registros:  161
+Valor total: 2,952,000.00
+Porcentaje sobre el valor global: 0.001%
+
+
+
+Dirección:  Exports
+Origen:  Germany
+Destino:  United Kingdom
+Producto:  Pharmaceuticals
+Modo de Transporte:  Air
+Compañia:  Bayer AG
+Número de registros:  52
+Valor total: 2,635,000.00
+Porcentaje sobre el valor global: 0.001%
+
+
+
+Dirección:  Exports
+Origen:  Germany
+Destino:  Brazil
+Producto:  Pharmaceuticals
+Modo de Transporte:  Air
+Compañia:  Bayer AG
+Número de registros:  85
+Valor total: 3,265,000.00
+Porcentaje sobre el valor global: 0.002%
+
+
+
+Dirección:  Exports
+Origen:  Germany
+Destino:  South Korea
+Producto:  Pharmaceuticals
+Modo de Transporte:  Air
+Compañia:  Bayer AG
+Número de registros:  144
+Valor total: 902,668,000.00
+Porcentaje sobre el valor global: 0.418%
+
+
+
+Dirección:  Exports
+Origen:  China
+Destino:  Belgium
+Producto:  Computers
+Modo de Transporte:  Air
+Compañia:  Lenovo Group Ltd
+Número de registros:  95
+Valor total: 524,000,000.00
+Porcentaje sobre el valor global: 0.243%
+
+
+
+Dirección:  Exports
+Origen:  China
+Destino:  Rusia
+Producto:  Smartphones
+Modo de Transporte:  Rail
+Compañia:  Xiaomi Corp
+Número de registros:  204
+Valor total: 989,046,000.00
+Porcentaje sobre el valor global: 0.459%
+
+
+
+Dirección:  Exports
+Origen:  USA
+Destino:  United Arab Emirates
+Producto:  Aerospace Parts
+Modo de Transporte:  Sea
+Compañia:  United Technologies Co
+Número de registros:  142
+Valor total: 119,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  France
+Destino:  China
+Producto:  Cosmetics
+Modo de Transporte:  Sea
+Compañia:  L Oreal Co
+Número de registros:  72
+Valor total: 54,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  France
+Destino:  Netherlands
+Producto:  Cosmetics
+Modo de Transporte:  Road
+Compañia:  L Oreal Co
+Número de registros:  20
+Valor total: 14,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  France
+Destino:  Canada
+Producto:  Cosmetics
+Modo de Transporte:  Sea
+Compañia:  L Oreal Co
+Número de registros:  86
+Valor total: 75,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  South Korea
+Destino:  Brazil
+Producto:  Integrated circuits
+Modo de Transporte:  Sea
+Compañia:  LG Electronics Inc
+Número de registros:  91
+Valor total: 104,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  France
+Destino:  Russia
+Producto:  Pharmaceuticals
+Modo de Transporte:  Rail
+Compañia:  Cubist Pharma F
+Número de registros:  13
+Valor total: 20,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  France
+Destino:  Austria
+Producto:  Pharmaceuticals
+Modo de Transporte:  Rail
+Compañia:  Cubist Pharma F
+Número de registros:  7
+Valor total: 7,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  Netherlands
+Destino:  Argentina
+Producto:  Meat
+Modo de Transporte:  Sea
+Compañia:  Meat Beleggingen Bv
+Número de registros:  29
+Valor total: 36,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  Italy
+Destino:  Singapore
+Producto:  Pharmaceuticals
+Modo de Transporte:  Rail
+Compañia:  Actelion Italia Srl
+Número de registros:  30
+Valor total: 45,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  Italy
+Destino:  USA
+Producto:  Clothing
+Modo de Transporte:  Sea
+Compañia:  Calzedonia SA
+Número de registros:  58
+Valor total: 107,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  Italy
+Destino:  Canada
+Producto:  Clothing
+Modo de Transporte:  Sea
+Compañia:  Calzedonia SA
+Número de registros:  28
+Valor total: 66,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  Italy
+Destino:  Netherlands
+Producto:  Clothing
+Modo de Transporte:  Sea
+Compañia:  Calzedonia SA
+Número de registros:  19
+Valor total: 38,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  Italy
+Destino:  Russia
+Producto:  Clothing
+Modo de Transporte:  Rail
+Compañia:  Calzedonia SA
+Número de registros:  16
+Valor total: 40,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  Austria
+Destino:  Slovakia
+Producto:  Cars
+Modo de Transporte:  Rail
+Compañia:  Magna-Steyr
+Número de registros:  94
+Valor total: 258,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  Austria
+Destino:  Switzerland
+Producto:  Cars
+Modo de Transporte:  Rail
+Compañia:  Magna-Steyr
+Número de registros:  99
+Valor total: 252,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  Austria
+Destino:  Italy
+Producto:  Cars
+Modo de Transporte:  Rail
+Compañia:  Magna-Steyr
+Número de registros:  98
+Valor total: 252,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  Austria
+Destino:  France
+Producto:  Cars
+Modo de Transporte:  Rail
+Compañia:  Magna-Steyr
+Número de registros:  32
+Valor total: 93,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  Austria
+Destino:  USA
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  Magna-Steyr
+Número de registros:  48
+Valor total: 112,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  Austria
+Destino:  Germany
+Producto:  Cars
+Modo de Transporte:  Rail
+Compañia:  Magna-Steyr
+Número de registros:  66
+Valor total: 188,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  Singapore
+Destino:  Japan
+Producto:  Gas turbines
+Modo de Transporte:  Sea
+Compañia:  Aerzen Turbines
+Número de registros:  46
+Valor total: 152,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  Singapore
+Destino:  USA
+Producto:  Gas turbines
+Modo de Transporte:  Sea
+Compañia:  Aerzen Turbines
+Número de registros:  106
+Valor total: 251,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  Singapore
+Destino:  Malaysia
+Producto:  Gas turbines
+Modo de Transporte:  Sea
+Compañia:  Aerzen Turbines
+Número de registros:  89
+Valor total: 218,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  Singapore
+Destino:  China
+Producto:  Gas turbines
+Modo de Transporte:  Sea
+Compañia:  Aerzen Turbines
+Número de registros:  23
+Valor total: 63,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  Japan
+Destino:  Russia
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  Suzuki
+Número de registros:  68
+Valor total: 159,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  Japan
+Destino:  Canada
+Producto:  Machinery and electronics
+Modo de Transporte:  Air
+Compañia:  Panasonic Co
+Número de registros:  203
+Valor total: 511,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Exports
+Origen:  Netherlands
+Destino:  Brazil
+Producto:  Meat
+Modo de Transporte:  Sea
+Compañia:  Meat Beleggingen Bv
+Número de registros:  23
+Valor total: 59,000.00
+Porcentaje sobre el valor global: 0.000%
+
+
+
+Dirección:  Imports
+Origen:  Mexico
+Destino:  USA
+Producto:  Cars
+Modo de Transporte:  Rail
+Compañia:  Honda
+Número de registros:  122
+Valor total: 2,365,000,000.00
+Porcentaje sobre el valor global: 1.096%
+
+
+
+Dirección:  Imports
+Origen:  Japan
+Destino:  USA
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  Honda
+Número de registros:  17
+Valor total: 527,000,000.00
+Porcentaje sobre el valor global: 0.244%
+
+
+
+Dirección:  Imports
+Origen:  China
+Destino:  USA
+Producto:  Machinery and electronics
+Modo de Transporte:  Sea
+Compañia:  Lenovo Group Ltd
+Número de registros:  15
+Valor total: 297,000,000.00
+Porcentaje sobre el valor global: 0.138%
+
+
+
+Dirección:  Imports
+Origen:  South Korea
+Destino:  Germany
+Producto:  Pharmaceuticals
+Modo de Transporte:  Air
+Compañia:  Munich Pharma Co
+Número de registros:  29
+Valor total: 738,000,000.00
+Porcentaje sobre el valor global: 0.342%
+
+
+
+Dirección:  Imports
+Origen:  USA
+Destino:  Germany
+Producto:  Pharmaceuticals
+Modo de Transporte:  Air
+Compañia:  Munich Pharma Co
+Número de registros:  58
+Valor total: 1,620,000,000.00
+Porcentaje sobre el valor global: 0.751%
+
+
+
+Dirección:  Imports
+Origen:  Spain
+Destino:  Germany
+Producto:  Machinery and electronics
+Modo de Transporte:  Road
+Compañia:  Daimler Machinery  Inc
+Número de registros:  142
+Valor total: 2,044,000,000.00
+Porcentaje sobre el valor global: 0.948%
+
+
+
+Dirección:  Imports
+Origen:  China
+Destino:  Singapore
+Producto:  Gas turbines
+Modo de Transporte:  Sea
+Compañia:  Union Energy Co
+Número de registros:  55
+Valor total: 1,267,000,000.00
+Porcentaje sobre el valor global: 0.587%
+
+
+
+Dirección:  Imports
+Origen:  Spain
+Destino:  Mexico
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  Seat de Mexico SA
+Número de registros:  41
+Valor total: 957,000,000.00
+Porcentaje sobre el valor global: 0.444%
+
+
+
+Dirección:  Imports
+Origen:  South Korea
+Destino:  Mexico
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  General Motors Company
+Número de registros:  66
+Valor total: 1,291,000,000.00
+Porcentaje sobre el valor global: 0.599%
+
+
+
+Dirección:  Imports
+Origen:  Germany
+Destino:  Mexico
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  Grupo BMW Mexico 
+Número de registros:  70
+Valor total: 1,804,000,000.00
+Porcentaje sobre el valor global: 0.836%
+
+
+
+Dirección:  Imports
+Origen:  Japan
+Destino:  Mexico
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  Suzuki Mexico SA
+Número de registros:  206
+Valor total: 3,918,000,000.00
+Porcentaje sobre el valor global: 1.816%
+
+
+
+Dirección:  Imports
+Origen:  Italy
+Destino:  Mexico
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  Alfa Romeo Inc
+Número de registros:  28
+Valor total: 680,000,000.00
+Porcentaje sobre el valor global: 0.315%
+
+
+
+Dirección:  Imports
+Origen:  China
+Destino:  United Arab Emirates
+Producto:  Computers
+Modo de Transporte:  Sea
+Compañia:  Technology & Innovation Co
+Número de registros:  114
+Valor total: 3,357,000,000.00
+Porcentaje sobre el valor global: 1.556%
+
+
+
+Dirección:  Imports
+Origen:  Japan
+Destino:  United Arab Emirates
+Producto:  Computers
+Modo de Transporte:  Sea
+Compañia:  Technology & Innovation Co
+Número de registros:  76
+Valor total: 2,238,000,000.00
+Porcentaje sobre el valor global: 1.038%
+
+
+
+Dirección:  Imports
+Origen:  South Korea
+Destino:  United Arab Emirates
+Producto:  Computers
+Modo de Transporte:  Sea
+Compañia:  Technology & Innovation Co
+Número de registros:  51
+Valor total: 1,713,000,000.00
+Porcentaje sobre el valor global: 0.794%
+
+
+
+Dirección:  Imports
+Origen:  Vietnam
+Destino:  United Arab Emirates
+Producto:  Computers
+Modo de Transporte:  Sea
+Compañia:  Technology & Innovation Co
+Número de registros:  18
+Valor total: 540,000,000.00
+Porcentaje sobre el valor global: 0.250%
+
+
+
+Dirección:  Imports
+Origen:  Malaysia
+Destino:  Thailand
+Producto:  Palm oil
+Modo de Transporte:  Rail
+Compañia:  Green Oil Thailand Co
+Número de registros:  195
+Valor total: 3,482,000,000.00
+Porcentaje sobre el valor global: 1.614%
+
+
+
+Dirección:  Imports
+Origen:  Singapore
+Destino:  Thailand
+Producto:  Integrated circuits
+Modo de Transporte:  Sea
+Compañia:  Sawan Ltd
+Número de registros:  273
+Valor total: 4,017,000,000.00
+Porcentaje sobre el valor global: 1.862%
+
+
+
+Dirección:  Imports
+Origen:  China
+Destino:  Thailand
+Producto:  Machinery and electronics
+Modo de Transporte:  Road
+Compañia:  Chaiyaphum Electronics Ltd
+Número de registros:  200
+Valor total: 3,831,000,000.00
+Porcentaje sobre el valor global: 1.776%
+
+
+
+Dirección:  Imports
+Origen:  USA
+Destino:  Thailand
+Producto:  Vegetables
+Modo de Transporte:  Sea
+Compañia:  Vegetables ImpTha Ltd
+Número de registros:  109
+Valor total: 1,568,000,000.00
+Porcentaje sobre el valor global: 0.727%
+
+
+
+Dirección:  Imports
+Origen:  Japan
+Destino:  Thailand
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  Honda
+Número de registros:  55
+Valor total: 847,000,000.00
+Porcentaje sobre el valor global: 0.393%
+
+
+
+Dirección:  Imports
+Origen:  Germany
+Destino:  Poland
+Producto:  Cars
+Modo de Transporte:  Rail
+Compañia:  Ralf Stety Cars Ltd
+Número de registros:  36
+Valor total: 570,000,000.00
+Porcentaje sobre el valor global: 0.264%
+
+
+
+Dirección:  Imports
+Origen:  France
+Destino:  Poland
+Producto:  Cars
+Modo de Transporte:  Rail
+Compañia:  Ralf Stety Cars Ltd
+Número de registros:  83
+Valor total: 1,030,000,000.00
+Porcentaje sobre el valor global: 0.478%
+
+
+
+Dirección:  Imports
+Origen:  China
+Destino:  Japan
+Producto:  Machinery and electronics
+Modo de Transporte:  Air
+Compañia:  Konica Minolta Co
+Número de registros:  210
+Valor total: 3,237,000,000.00
+Porcentaje sobre el valor global: 1.501%
+
+
+
+Dirección:  Imports
+Origen:  Mexico
+Destino:  Japan
+Producto:  Vegetables
+Modo de Transporte:  Sea
+Compañia:  KYOKA Kyoto Co
+Número de registros:  65
+Valor total: 1,143,000,000.00
+Porcentaje sobre el valor global: 0.530%
+
+
+
+Dirección:  Imports
+Origen:  USA
+Destino:  Japan
+Producto:  Smartphones
+Modo de Transporte:  Air
+Compañia:  Apple Inc
+Número de registros:  22
+Valor total: 381,000,000.00
+Porcentaje sobre el valor global: 0.177%
+
+
+
+Dirección:  Imports
+Origen:  USA
+Destino:  India
+Producto:  Pharmaceuticals
+Modo de Transporte:  Sea
+Compañia:  Pharma India Ltd
+Número de registros:  57
+Valor total: 1,133,000,000.00
+Porcentaje sobre el valor global: 0.525%
+
+
+
+Dirección:  Imports
+Origen:  Russia
+Destino:  India
+Producto:  Pharmaceuticals
+Modo de Transporte:  Sea
+Compañia:  Pharma India Ltd
+Número de registros:  42
+Valor total: 851,000,000.00
+Porcentaje sobre el valor global: 0.395%
+
+
+
+Dirección:  Imports
+Origen:  Germany
+Destino:  India
+Producto:  Pharmaceuticals
+Modo de Transporte:  Sea
+Compañia:  Pharma India Ltd
+Número de registros:  30
+Valor total: 548,000,000.00
+Porcentaje sobre el valor global: 0.254%
+
+
+
+Dirección:  Imports
+Origen:  United Arab Emirates
+Destino:  India
+Producto:  Pharmaceuticals
+Modo de Transporte:  Sea
+Compañia:  Pharma India Ltd
+Número de registros:  20
+Valor total: 371,000,000.00
+Porcentaje sobre el valor global: 0.172%
+
+
+
+Dirección:  Imports
+Origen:  Japan
+Destino:  India
+Producto:  Pharmaceuticals
+Modo de Transporte:  Sea
+Compañia:  Pharma India Ltd
+Número de registros:  8
+Valor total: 115,000,000.00
+Porcentaje sobre el valor global: 0.053%
+
+
+
+Dirección:  Imports
+Origen:  Canada
+Destino:  USA
+Producto:  Wood
+Modo de Transporte:  Road
+Compañia:  Wood Canada Ltd
+Número de registros:  47
+Valor total: 569,000,000.00
+Porcentaje sobre el valor global: 0.264%
+
+
+
+Dirección:  Imports
+Origen:  France
+Destino:  Germany
+Producto:  Machinery and electronics
+Modo de Transporte:  Road
+Compañia:  Daimler Machinery  Inc
+Número de registros:  86
+Valor total: 286,000,000.00
+Porcentaje sobre el valor global: 0.133%
+
+
+
+Dirección:  Imports
+Origen:  Mexico
+Destino:  Germany
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  Honda
+Número de registros:  34
+Valor total: 345,000,000.00
+Porcentaje sobre el valor global: 0.160%
+
+
+
+Dirección:  Imports
+Origen:  Mexico
+Destino:  Canada
+Producto:  Vegetables
+Modo de Transporte:  Sea
+Compañia:  Fruit & Vegetable Inc
+Número de registros:  45
+Valor total: 178,000,000.00
+Porcentaje sobre el valor global: 0.083%
+
+
+
+Dirección:  Imports
+Origen:  Japan
+Destino:  Canada
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  Mazda Motor Co
+Número de registros:  70
+Valor total: 278,000,000.00
+Porcentaje sobre el valor global: 0.129%
+
+
+
+Dirección:  Imports
+Origen:  United Kingdom
+Destino:  Canada
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  Tata Motors
+Número de registros:  58
+Valor total: 248,000,000.00
+Porcentaje sobre el valor global: 0.115%
+
+
+
+Dirección:  Imports
+Origen:  USA
+Destino:  Canada
+Producto:  Cars
+Modo de Transporte:  Rail
+Compañia:  Ford Motor Company
+Número de registros:  81
+Valor total: 348,000,000.00
+Porcentaje sobre el valor global: 0.161%
+
+
+
+Dirección:  Imports
+Origen:  Mexico
+Destino:  China
+Producto:  Fish flour
+Modo de Transporte:  Sea
+Compañia:  Seafood Exportky Ltd
+Número de registros:  100
+Valor total: 590,000,000.00
+Porcentaje sobre el valor global: 0.274%
+
+
+
+Dirección:  Imports
+Origen:  Germany
+Destino:  China
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  Volkswagen Group
+Número de registros:  233
+Valor total: 1,328,000,000.00
+Porcentaje sobre el valor global: 0.616%
+
+
+
+Dirección:  Imports
+Origen:  Brazil
+Destino:  China
+Producto:  Meat
+Modo de Transporte:  Sea
+Compañia:  Meatlyk Brz Ltd
+Número de registros:  113
+Valor total: 413,000,000.00
+Porcentaje sobre el valor global: 0.191%
+
+
+
+Dirección:  Imports
+Origen:  USA
+Destino:  China
+Producto:  Smartphones
+Modo de Transporte:  Air
+Compañia:  Apple Inc
+Número de registros:  49
+Valor total: 241,000,000.00
+Porcentaje sobre el valor global: 0.112%
+
+
+
+Dirección:  Imports
+Origen:  Australia
+Destino:  Japan
+Producto:  Meat
+Modo de Transporte:  Sea
+Compañia:  Starzen Co Ltd
+Número de registros:  102
+Valor total: 920,000,000.00
+Porcentaje sobre el valor global: 0.427%
+
+
+
+Dirección:  Imports
+Origen:  South Korea
+Destino:  Japan
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  Kia Motors
+Número de registros:  15
+Valor total: 147,000,000.00
+Porcentaje sobre el valor global: 0.068%
+
+
+
+Dirección:  Imports
+Origen:  Italy
+Destino:  Poland
+Producto:  Cars
+Modo de Transporte:  Rail
+Compañia:  Ralf Stety Cars Ltd
+Número de registros:  58
+Valor total: 588,000,000.00
+Porcentaje sobre el valor global: 0.273%
+
+
+
+Dirección:  Imports
+Origen:  Brazil
+Destino:  Germany
+Producto:  Machinery and electronics
+Modo de Transporte:  Sea
+Compañia:  Daimler Machinery  Inc
+Número de registros:  6
+Valor total: 76,000,000.00
+Porcentaje sobre el valor global: 0.035%
+
+
+
+Dirección:  Imports
+Origen:  China
+Destino:  Mexico
+Producto:  Cars
+Modo de Transporte:  Sea
+Compañia:  Grupo FastAuto SA
+Número de registros:  21
+Valor total: 244,000,000.00
+Porcentaje sobre el valor global: 0.113%
+
+
+
+Dirección:  Imports
+Origen:  Japan
+Destino:  Singapore
+Producto:  Gas turbines
+Modo de Transporte:  Sea
+Compañia:  Union Energy Co
+Número de registros:  13
+Valor total: 171,000,000.00
+Porcentaje sobre el valor global: 0.079%
+
+
+
+Dirección:  Imports
+Origen:  Malaysia
+Destino:  Singapore
+Producto:  Gas turbines
+Modo de Transporte:  Sea
+Compañia:  Union Energy Co
+Número de registros:  4
+Valor total: 78,000,000.00
+Porcentaje sobre el valor global: 0.036%
+
+
+
+Resumen de medios de transporte
+Valor total de importaciones: 55,528,000,000.00
+Valor total de exportaciones: 160,163,298,000.00
+
+
+Valor total por aire: 38,223,230,000.00
+Porcentaje sobre el valor global: 17.721%
+Número de imp/exp por aire:  20
+
+
+Valor total por carretera: 34,879,525,000.00
+Porcentaje sobre el valor global: 16.171%
+Número de imp/exp por carretera:  24
+
+
+Valor total por mar: 102,825,681,000.00
+Porcentaje sobre el valor global: 47.673%
+Número de imp/exp por mar:  117
+
+
+Valor total por tren: 39,762,862,000.00
+Porcentaje sobre el valor global: 18.435%
+Número de imp/exp por tren:  32
+
+- . - . 10 Mejores rutas
+
+# # Ruta  1
+Dirección:  Exports
+Origen:  China
+Destino:  Mexico
+Producto:  Smartphones
+Modo de Transporte:  Air
+Compañia:  Huawei Technologies Co
+Número de registros:  330
+Valor total: 12,250,000,000.00
+Porcentaje sobre el valor global: 5.679%
+
+
+
+# # Ruta  2
+Dirección:  Exports
+Origen:  Canada
+Destino:  Mexico
+Producto:  Wood
+Modo de Transporte:  Rail
+Compañia:  Black Forest Wood Co
+Número de registros:  261
+Valor total: 8,450,000,000.00
+Porcentaje sobre el valor global: 3.918%
+
+
+
+# # Ruta  3
+Dirección:  Exports
+Origen:  South Korea
+Destino:  Vietnam
+Producto:  Integrated circuits
+Modo de Transporte:  Sea
+Compañia:  LG Electronics Inc
+Número de registros:  497
+Valor total: 6,877,007,000.00
+Porcentaje sobre el valor global: 3.188%
+
+
+
+# # Ruta  4
+Dirección:  Exports
+Origen:  France
+Destino:  Belgium
+Producto:  Cosmetics
+Modo de Transporte:  Road
+Compañia:  L Oreal Co
+Número de registros:  223
+Valor total: 5,538,069,000.00
+Porcentaje sobre el valor global: 2.568%
+
+
+
+# # Ruta  5
+Dirección:  Exports
+Origen:  France
+Destino:  United Kingdom
+Producto:  Pharmaceuticals
+Modo de Transporte:  Sea
+Compañia:  Cubist Pharma F
+Número de registros:  147
+Valor total: 5,427,000,000.00
+Porcentaje sobre el valor global: 2.516%
+
+
+
+# # Ruta  6
+Dirección:  Exports
+Origen:  China
+Destino:  South Korea
+Producto:  Computers
+Modo de Transporte:  Rail
+Compañia:  Lenovo Group Ltd
+Número de registros:  189
+Valor total: 4,790,000,000.00
+Porcentaje sobre el valor global: 2.221%
+
+
+
+# # Ruta  7
+Dirección:  Exports
+Origen:  USA
+Destino:  Mexico
+Producto:  Aerospace Parts
+Modo de Transporte:  Rail
+Compañia:  Boeing Company
+Número de registros:  194
+Valor total: 4,710,000,000.00
+Porcentaje sobre el valor global: 2.184%
+
+
+
+# # Ruta  8
+Dirección:  Exports
+Origen:  South Korea
+Destino:  Japan
+Producto:  Integrated circuits
+Modo de Transporte:  Sea
+Compañia:  Amkor Technology Inc
+Número de registros:  279
+Valor total: 4,594,000,000.00
+Porcentaje sobre el valor global: 2.130%
+
+
+
+# # Ruta  9
+Dirección:  Exports
+Origen:  Germany
+Destino:  Italy
+Producto:  Cars
+Modo de Transporte:  Rail
+Compañia:  BMW
+Número de registros:  130
+Valor total: 4,541,000,000.00
+Porcentaje sobre el valor global: 2.105%
+
+
+
+# # Ruta  10
+Dirección:  Exports
+Origen:  China
+Destino:  Germany
+Producto:  Computers
+Modo de Transporte:  Air
+Compañia:  Lenovo Group Ltd
+Número de registros:  142
+Valor total: 4,090,000,000.00
+Porcentaje sobre el valor global: 1.896%
+
+
+
+80 - 20 de las rutas
+
+Cantidad total sobre el 80% de las mejores rutas: 173,049,895,000.00
+Lista de paises que se encuentran en el 80%
+China
+Mexico
+Canada
+South Korea
+Vietnam
+France
+Belgium
+United Kingdom
+USA
+Japan
+Germany
+Italy
+Singapore
+Thailand
+Russia
+Belorussia
+Malaysia
+Brazil
+United Arab Emirates
+Netherlands
+Argentina
+Spain
+Turkey
+India
+Poland
+
+
+Cantidad total sobre el 20% de las rutas restantes: 42,641,403,000.00
+Lista de paises que se encuentran en el 20%
+China
+Rusia
+Spain
+Mexico
+Australia
+Japan
+Germany
+South Korea
+Italy
+France
+Russia
+India
+Thailand
+United Kingdom
+Belgium
+USA
+Brazil
+Netherlands
+Croatia
+Canada
+Switzerland
+Poland
+Ireland
+Vietnam
+United Arab Emirates
+Singapore
+Argentina
+Philippines
+Malaysia
+New Zealand
+Austria
+Peru
+Slovakia
+
+
+Lista de paises que NO se encuentran en el 80%
+Slovakia
+Rusia
+New Zealand
+Peru
+Austria
+Croatia
+Philippines
+Ireland
+Switzerland
+Australia
+Valor total de los paises que no estan en el 80% 4,725,155,000.00
+Cantidad de rutas en estos paises: 17
+Porcentaje sobre el valor global: 2.191%
